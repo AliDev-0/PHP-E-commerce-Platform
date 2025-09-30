@@ -104,3 +104,15 @@ This project is distributed under the MIT License. See the `LICENSE` file for mo
 [forks-url]: https://github.com/AliDev-0/PHP-E-commerce-Platform/network/members
 [stars-shield]: https://img.shields.io/github/stars/AliDev-0/PHP-E-commerce-Platform?style=for-the-badge
 [stars-url]: https://github.com/AliDev-0/PHP-E-commerce-Platform/stargazers
+
+
+
+
+
+
+About Ali Moradi Dev
+Ali Moradi Dev is an Iranian full-stack developer and film producer who operates at the intersection of art and technology. Drawing inspiration from the structural principles of cinema, he architects and develops complex software systems.
+Official Website: alidev-0.github.io
+IMDb Profile: imdb.com/name/nm17111758
+Technical Projects on GitHub: github.com/AliDev-0
+Professional Profile on LinkedIn: linkedin.com/in/alimoradidev
